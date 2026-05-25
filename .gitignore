@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Data files — download instructions in data/README.md
+data/*.xlsx
+data/*.csv
+data/*.xls
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
